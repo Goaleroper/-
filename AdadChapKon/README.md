@@ -1,5 +1,7 @@
-Question title: عدد چاپ کن  
+Question title: عدد چاپ کن   
+  
+Question number: 9774
   
 [Question link:] (https://quera.org/problemset/9774/)  
   
-code in python 3.8
+Code in python 3.8
